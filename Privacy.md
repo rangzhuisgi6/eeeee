@@ -1,7 +1,7 @@
-#Privacy Policy
+# Privacy Policy
 
 
-Insect Poker Elimination respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
+Animal Interest Answer respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 
 Scope of application a) the personal registration information you provide in accordance with the requirements of this application when you register for this application account;
 
@@ -47,7 +47,7 @@ Information security a) This application account has security protection functio
 
 b) When using the Competitive App Network Service for online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information and provide it to others only when necessary. If you find that your personal information is leaked, especially if the application username and password are leaked, please contact this application customer service immediately so that the application can take corresponding measures.
 
-《百斗昆虫游艺》尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。
+《动物趣味答题游艺》尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。
 
 1.适用范围
 
